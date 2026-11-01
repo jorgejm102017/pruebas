@@ -20,4 +20,4 @@ Scanner sc = new Scanner(System.in);
 			System.out.println(e.getMessage());
 ```
 
-![alt text](image.png)
+![alt text](imagenes/image.png)
